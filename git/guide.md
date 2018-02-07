@@ -33,6 +33,7 @@ git stash | guarda alterações que podem ser acessadas no futuro mas que não q
 ## Diversos
 Command | Description
 --------|------------
+git log | visualizar o histórico de commits
 git cherry-pick [hash] | pegar um commit específico
 git checkout - | retorna para o brach anterior
 git add -p | comitar partes de um mesmo arquivo
