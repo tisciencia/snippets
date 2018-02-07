@@ -28,3 +28,10 @@ Command | Description
 --------|------------
 git commit -- amend | para alterar a descrição de um commit ou adicionar mais modificações ao commit anterior
 git stash | guarda alterações que podem ser acessadas no futuro mas que não quero que entre em um próximo commit (por exemplo)
+
+
+## Diversos
+Command | Description
+--------|------------
+git cherry-pick [hash] | pegar um commit específico
+git checkout - | retorna para o brach anterior
