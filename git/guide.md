@@ -6,7 +6,7 @@ git reset | bom para branches separadados
 git revert | serve para o master
 git commit -- force | não é uma boa prática utilizar no master
 
-# Merge vs Rebase
+### Merge vs Rebase
 Command | Description
 --------|------------
 git merge [branch] | utilizado para enviar alterações do branch para a master
