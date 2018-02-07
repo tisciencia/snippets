@@ -4,8 +4,8 @@ Usefull plugins for vscode
 ## Git
 Plugin | Description
 --------|------------
-* Git: Add Remote | TBD
-* Git Blame | avisa quem foi o autor da última modificação
+Git: Add Remote | TBD
+Git Blame | avisa quem foi o autor da última modificação
 
 ## HTML
 Plugin | Description
