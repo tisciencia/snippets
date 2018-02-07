@@ -5,7 +5,7 @@ git init | inicializar o uso do git em um diretório
 git add [./file] | adicionar arquivos
 git commit -m [message] | comitar arquivos
 git pull [origin] [branch] | puxar alterações 
-git push [origin] [branc] | enviar alterações
+git push [origin] [branch] | enviar alterações
 git checkout [branch] | para trocar de branch
 
 ## Trabalhando no master
