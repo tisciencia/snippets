@@ -43,4 +43,9 @@ git commit --fixup [hash] | para corrigir um commit anterior
 git merge --continue | serve para seguir com o merge após as correções dos conflitos
 git config --global | alterar as configurações globais
 git config --global help.autocorrect 1 | assume que o comando foi digitado corretamente
+git archive [branch] --format=zip --output=master.zip | zipa o repositório 
+git log --pretty=online [--graph] [--all] | deixando o log mais interessante
+git log --author=['username'] | filtrando o log por autor
+git shortlog -sn | visualizar a quantidade de commits por autor
+git reflog | recuperar coisas. Salva vidas!! 
 
