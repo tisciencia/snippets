@@ -5,6 +5,7 @@ git stash | guarda alterações que podem ser acessadas no futuro mas que não q
 git reset | bom para branches separadados
 git revert | serve para o master
 git commit -- force | não é uma boa prática utilizar no master
+git commit -- amend | para alterar a descrição de um commit ou adicionar mais modificações ao commit anterior
 
 ### Merge vs Rebase
 Command | Description
