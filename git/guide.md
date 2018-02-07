@@ -1,3 +1,12 @@
+## Básico
+Command | Description
+--------|------------
+git init | inicializar o uso do git em um diretório
+git add [./file] | adicionar arquivos
+git commit -m [message] | comitar arquivos
+git pull [origin] [branch] | puxar alterações 
+git push [origin] [branc] | enviar alterações
+git checkout [branch] | para trocar de branch
 
 ## Trabalhando no master
 Command | Description
@@ -19,8 +28,3 @@ Command | Description
 --------|------------
 git commit -- amend | para alterar a descrição de um commit ou adicionar mais modificações ao commit anterior
 git stash | guarda alterações que podem ser acessadas no futuro mas que não quero que entre em um próximo commit (por exemplo)
-
-## Diversos
-Command | Description
---------|------------
-git checkout [branch] | para trocar de branch
