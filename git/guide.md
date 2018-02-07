@@ -37,4 +37,6 @@ git cherry-pick [hash] | pegar um commit específico
 git checkout - | retorna para o brach anterior
 git add -p | comitar partes de um mesmo arquivo
 git show | mostrar o que foi alterado no commit
+git rebase -i | para modificar o histórico (deletar commits, juntar commits, etc)
+git commit --fixup [hash] | para corrigir um commit anterior
 
