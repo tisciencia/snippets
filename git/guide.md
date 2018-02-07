@@ -40,4 +40,5 @@ git add -p | comitar partes de um mesmo arquivo
 git show | mostrar o que foi alterado no commit
 git rebase -i | para modificar o histórico (deletar commits, juntar commits, etc)
 git commit --fixup [hash] | para corrigir um commit anterior
+git merge --continue | serve para seguir com o merge após as correções dos conflitos
 
