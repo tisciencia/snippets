@@ -52,6 +52,6 @@ git log --author=['username'] | filtrando o log por autor
 git shortlog -sn | visualizar a quantidade de commits por autor
 git reflog | recuperar coisas. Salva vidas!! 
 
-# Links
+# Links úteis (github)
 * https://help.github.com/articles/closing-issues-using-keywords
 * https://github.com/devspace/awesome-github-templates
