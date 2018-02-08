@@ -9,6 +9,7 @@ git commit -m [message] | comitar arquivos
 git pull [origin] [branch] | puxar alterações 
 git push [origin] [branch] | enviar alterações
 git checkout [branch] | para trocar de branch
+git checkout -b [new branch] | cria um novo branch e troca o atual para o novo
 
 ### Trabalhando no master
 Command | Description
@@ -52,4 +53,5 @@ git shortlog -sn | visualizar a quantidade de commits por autor
 git reflog | recuperar coisas. Salva vidas!! 
 
 # Links
-https://help.github.com/articles/closing-issues-using-keywords/
+* https://help.github.com/articles/closing-issues-using-keywords
+* https://github.com/devspace/awesome-github-templates
