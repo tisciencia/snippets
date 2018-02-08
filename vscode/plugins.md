@@ -34,6 +34,14 @@ Prettify JSON | para indentar JSON, bastante útil
 SVG Viewer | para poder visualizar SVG diretamente do editor
 vscode-spotify | integra com o Spotify e tem a opção de ver a letra da música
 WakaTime | para métricas, insights e time tracking
+To Do Tasks | para organizar tarefas
+vscode-icons | icones ;)
+exports autocomplete | ajuda a completar / encontrar uma referência para o exports
+CodeMetrics | mostra a complexidade das suas funções
+Align | alinhamento de código no estilo ATOM
+Can I Use | para saber se está disponível nos browsers
+Code Spell Checker | para checar a escrita correta
+Quokka.js | mostra o resultado da função on the fly
 
 ### JS
 Plugin | Description
@@ -44,4 +52,9 @@ ESLint | para rodar o linter no seu código JS
 JavaScript (ES6) code snippets | snippets lindinhos para o seu código em ES6
 jsx | suporte para escrever __jsx__
 Reactjs code snippets | snippets para quem usa __React__
+
+### Temas
+Plugin | Description
+--------|------------
+Atom One Dark Theme | Tema estilo ATOM
 
