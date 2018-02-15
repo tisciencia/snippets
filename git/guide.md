@@ -8,6 +8,7 @@ git add [./file] | adicionar arquivos
 git commit -m [message] | comitar arquivos
 git pull [origin] [branch] | puxar alterações 
 git push [origin] [branch] | enviar alterações
+git push [origin] [branch] --tags | enviar alterações e as tags
 git checkout [branch] | para trocar de branch
 git checkout -b [new branch] | cria um novo branch e troca o atual para o novo
 
