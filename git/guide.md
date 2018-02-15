@@ -53,6 +53,7 @@ git log --pretty=online [--graph] [--all] | deixando o log mais interessante
 git log --author=['username'] | filtrando o log por autor
 git shortlog -sn | visualizar a quantidade de commits por autor
 git reflog | recuperar coisas. Salva vidas!! 
+git checkout -g gh-pages | publicar o repositório no github pages 
 
 # Links úteis (github)
 * https://help.github.com/articles/closing-issues-using-keywords
